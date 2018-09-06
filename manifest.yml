@@ -1,0 +1,5 @@
+applications:
+- memory: 64MB
+  name: tmcostings-redirect
+  env:
+    TARGET_DOMAIN: www.tmcls.co.uk
